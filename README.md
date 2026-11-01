@@ -103,3 +103,6 @@ npm run preview
 3. **Optimize**: Click **"Reallocate 1 Staff Immediately"** to see live metrics drop to 13 min wait.
 4. **Simulate**: Navigate to **What-If Simulator**, tweak parameters, and apply the action plan.
 5. **Kiosk**: Switch to **Customer Experience** to view the self-service flow and nearby branch options.
+
+# Made with love from UoH students !
+Contributors: Vibhishan, Rishabh, Lokesh, Ashish, Manas
